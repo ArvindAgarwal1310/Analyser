@@ -1,5 +1,6 @@
 # Analyser
 
+Deployed Solution :  https://arvind-analyser.streamlit.app
 Documentation : https://mango-fish-bf0.notion.site/Analyser-360-4b73ae08331942dea966c6bf5f4e6895
 
 Analyser is a cutting-edge analytics platform designed to empower data analysts and businesses with comprehensive insights and intelligent data processing.With seamless integration of CSV data from sources like Google Sheets, Analyser-360 offers a powerful and user-friendly interface for uploading, querying, and analyzing data.
