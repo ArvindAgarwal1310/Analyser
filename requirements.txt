@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pandas
+requests
+google_spreadsheet
+google-auth-oauthlib
+google-api-python-client
+google-auth-oauthlib
+python-docx
+matplotlib
+docx2pdf
+google-generativeai
+streamlit
+pandasql
+pandasai
+gspread
